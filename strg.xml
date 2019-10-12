@@ -1,13 +1,16 @@
-    <string name="YourPhone">Your phone</string>
-    <string name="StartText">Please confirm your country code and enter your phone number.</string>
-    <string name="ChooseCountry">Choose a country</string>
-    <string name="WrongCountry">Invalid Country Code</string>
-    <string name="AccountAlreadyLoggedIn">This account is already logged in from this app.</string>
-    <string name="AccountSwitch">Switch</string>
-    <string name="SyncContacts">Sync Contacts</string>
-    <string name="SyncContactsDeleteInfo">This will remove your contacts from the Jinng servers. If \'Sync Contacts\' is enabled, contacts will be re-synced.</string>
-    <string name="SyncContactsOn">Contacts from this device will be added to this account.</string>
-    <string name="SyncContactsOff">Contacts from this device will not be added to this account.</string>
-    <string name="SyncContactsInfoOn">Contacts from this device will be added to your account.</string>
-    <string name="SyncContactsInfoOff">Turn on to import contacts from this device to your account.</string>
-    <string name="SyncContactsAdded">Contacts from this device were added to your account.</string>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">codecov-android-example</string>
+<string name="YourPhone">Your phone</string>
+<string name="StartText">Please confirm your country code and enter your phone number.</string>
+<string name="ChooseCountry">Choose a country</string>
+<string name="WrongCountry">Invalid Country Code</string>
+<string name="AccountAlreadyLoggedIn">This account is already logged in from this app.</string>
+<string name="AccountSwitch">Switch</string>
+<string name="SyncContacts">Sync Contacts</string>
+<string name="SyncContactsDeleteInfo">This will remove your contacts from the Jinng servers. If \'Sync Contacts\' is enabled, contacts will be re-synced.</string>
+<string name="SyncContactsOff">Contacts from this device will not be added to this account.</string>
+<string name="SyncContactsInfoOn">Contacts from this device will be added to your account.</string>
+<string name="SyncContactsInfoOff">Turn on to import contacts from this device to your account.</string>
+<string name="SyncContactsAdded">Contacts from this device were added to your account.</string>
+</resources
